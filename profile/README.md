@@ -18,7 +18,7 @@
 </p>
 
 <h1 align="center"> Lavor workspace </h2>
-<h3 align="center"> The education is with us </h1>
+<h3 align="center"> Revolution, because forever we will be broken </h1>
 <p align="center"> Lavor it's a open source workspace for educative institutions thinking on retrive the most cutting-edge technologies to everyone </p>
 
 <br>
